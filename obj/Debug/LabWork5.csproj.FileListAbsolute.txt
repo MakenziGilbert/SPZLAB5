@@ -1,0 +1,17 @@
+D:\Programing\source\LabWork5\bin\Debug\LabWork5.exe.config
+D:\Programing\source\LabWork5\bin\Debug\LabWork5.exe
+D:\Programing\source\LabWork5\bin\Debug\LabWork5.pdb
+D:\Programing\source\LabWork5\bin\Debug\Newtonsoft.Json.dll
+D:\Programing\source\LabWork5\bin\Debug\Newtonsoft.Json.xml
+D:\Programing\source\LabWork5\obj\Debug\LabWork5.csproj.AssemblyReference.cache
+D:\Programing\source\LabWork5\obj\Debug\LabWork5.Forms.AddGroupDialog.resources
+D:\Programing\source\LabWork5\obj\Debug\LabWork5.Forms.ManageGroupsDialog.resources
+D:\Programing\source\LabWork5\obj\Debug\LabWork5.Forms.ManageStudentDialog.resources
+D:\Programing\source\LabWork5\obj\Debug\LabWork5.Forms.MainWindow.resources
+D:\Programing\source\LabWork5\obj\Debug\LabWork5.Forms.RenameGroupDialog.resources
+D:\Programing\source\LabWork5\obj\Debug\LabWork5.Properties.Resources.resources
+D:\Programing\source\LabWork5\obj\Debug\LabWork5.csproj.GenerateResource.cache
+D:\Programing\source\LabWork5\obj\Debug\LabWork5.csproj.CoreCompileInputs.cache
+D:\Programing\source\LabWork5\obj\Debug\LabWork5.csproj.CopyComplete
+D:\Programing\source\LabWork5\obj\Debug\LabWork5.exe
+D:\Programing\source\LabWork5\obj\Debug\LabWork5.pdb
